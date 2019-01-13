@@ -1,6 +1,6 @@
 #!/bin/bash
 
-domains=(etriptrack.com www.etriptrack.com)
+domains=(etriptrack.com)
 rsa_key_size=4096
 data_path="./data/certbot"
 email="pw273@cornell.edu" # Adding a valid address is strongly recommended
